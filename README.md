@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,docker,prisma,postman,vscode,git,vite,vercel" />
+    <img src="https://skillicons.dev/icons?i=figma,docker,prisma,postman,vscode,vite,vercel" />
   </a>
 </p>
 
